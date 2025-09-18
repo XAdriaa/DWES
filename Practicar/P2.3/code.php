@@ -1,7 +1,6 @@
 <?php
 
 $name = "Adria";
-$apellidos = "Navarro Savall";
+$apellido = "Navarro Savall";
 
-echo($name + $apellidos);
-?>
+echo $name," ",$apellido ;
